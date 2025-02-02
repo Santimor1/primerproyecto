@@ -12,8 +12,8 @@
  <h2>Forma de uso</h2>
  <p>El juego consiste en agregar nombres, para que estos sean sorteados.</p>
  <p>Para jugar, dale en el botón un "agregar", despues de haber escrito el nombre en el espacio seleccionado</p>
-![Imagen 1](Captura.PNG)
+![Imagen 1](https://github.com/Santimor1/primerproyecto/blob/main/Captura.PNG)
  <p>Para sortear los nombres dale en el boton sortear, cuando te quedes sin nombres el sistema te lo mostrara al igual si no pones ningun nombre</p>
- ![Imagen 2](AÑADR.PNG)
+ ![Imagen 2](https://github.com/Santimor1/primerproyecto/blob/main/AÑADR.PNG)
 
 
